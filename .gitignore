@@ -1,0 +1,13 @@
+#secrets 
+.env
+*.pem 
+*.key
+
+#aws credentials 
+.aws/
+
+#logs
+*.log
+
+#os junk 
+.DS_Store
